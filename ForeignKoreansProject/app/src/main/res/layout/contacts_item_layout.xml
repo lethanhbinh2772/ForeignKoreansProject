@@ -1,0 +1,15 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:id="@+id/tv_contact_titles"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <TextView
+        android:id="@+id/tv_contacts_numbers"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        />
+</LinearLayout>
